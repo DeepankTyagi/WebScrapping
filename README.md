@@ -1,1 +1,1 @@
-Project1- Authors and Quotes is a compilation of 6 samll project whenre i have extracted details about the quote and their author from 'quotes.toscrape.com' using BeautifulSoup. All the files other than jupyter notebooks (.csv and .txt) are the file which store the scarpped data.
+Project1- Authors and Quotes is a compilation of 6 small project whenre i have extracted details about the quote and their author from 'quotes.toscrape.com' using BeautifulSoup. All the files other than jupyter notebooks (.csv and .txt) are the file which store the scarpped data.
